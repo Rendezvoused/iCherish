@@ -289,7 +289,7 @@ width: 262px; height: 420px; margin: auto;
 }
 
 .twibox {
-width: 260px; height: 380px; background: #fdfcfc; border: 1px solid #e5e5e5; margin-top: 0px; margin-left: 66px;border-radius: 15px;
+width: 260px; height: 380px; background: #fdfcfc; border: 1px solid #e5e5e5; margin-top: -10px; margin-left: 66px;border-radius: 15px;
 }
 .instabox {
 width: 260px; height: 30px; border-bottom: 1px solid #e5e5e5; position: absolute;
